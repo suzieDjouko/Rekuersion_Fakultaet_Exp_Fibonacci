@@ -12,8 +12,7 @@ oder gleich n sind. ( n! = 1*2*3*...*n )
 b) Schreiben Sie eine rekursive Funktion int power(int x, int y) zur
 Berechnung der Potenz von positiven int-Werten (Ganzzahlen) gemäß der
 Funktionsdefinition:
-f(x, y) = xy = x * X
-y-1
+f(x, y) = x^y = x * X ^(y-1)
 
 ● Lesen Sie die int-Werte für x und y von der Tastatur ein und reichen sie
 diese zur Berechnung an die Funktionen power() weiter.
